@@ -1,0 +1,7 @@
+{
+  "name": "yubar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
